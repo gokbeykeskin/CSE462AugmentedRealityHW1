@@ -13,9 +13,7 @@ public class DroneShootEnemy : MonoBehaviour
     [SerializeField] float shootDistance;
     void OnCollisionEnter(Collision other)
     {
-        Debug.Log("AAA");
         if(other.gameObject.tag=="Enemy"){
-            Debug.Log("BBB");
             enemy = other.transform;
         }
     }

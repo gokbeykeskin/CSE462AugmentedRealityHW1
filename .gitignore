@@ -7,11 +7,10 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
-/[Pp]ackages/
+/Packages/com.ptc.vuforia.engine-10.10.2.tgz
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-/Assets/AssetStoreTools*
-/Assets/Editor/Migration/
+/Assets/Editor/Migration/com.ptc.vuforia.engine-10.10.2.tgz
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
